@@ -1,0 +1,17 @@
+pages:
+
+Login page 
+
+adopt page with Report on the top report
+
+report page with form for filling
+
+
+
+sql 
+
+user table -usierid mobile number, password, name , location
+
+pets - petid, pet type, location , userid, undercustody, image 
+
+
